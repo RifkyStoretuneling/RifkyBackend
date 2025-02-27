@@ -28,7 +28,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m             AUTOSCRIPT PREMIUM RIFQY VPN             \033[0m"
+echo -e "\033[96;1m             AUTOSCRIPT PREMIUM RIFQI ASOY            \033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 3
@@ -838,7 +838,7 @@ secs_to_human "$(($(date +%s) - ${start}))"
 sudo hostnamectl set-hostname $username
 clear
 echo -e "\033[96m==========================\033[0m"
-echo -e "\033[92m      INSTALL SUCCES      \033[0m"
+echo -e "\033[92m  INSTAL SC RIFQI SUCESS      \033[0m"
 echo -e "\033[96m==========================\033[0m"
 echo -e ""
 echo -e "\033[93;1m Wait inn 4 sec...\033[0m"
